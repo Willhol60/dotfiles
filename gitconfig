@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = willholmes60@gmail.com
+	name = Will Holmes
